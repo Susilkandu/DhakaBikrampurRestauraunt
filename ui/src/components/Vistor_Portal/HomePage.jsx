@@ -8,12 +8,6 @@ export default function HomePage() {
       description: "Char-grilled, smoky, and infused with rich spices.",
     },
     {
-      name: "Beef Biryani",
-      image: "Beef_Biryani.jpg",
-      tag: "🔥 Most Ordered",
-      description: "Tender beef pieces layered with saffron rice and slow-cooked to perfection — the ultimate crowd favorite.",
-    },
-    {
       name: "Chicken Meat",
       image: "Chicken_Meat.jpg",
       tag: "⭐ Chef's Favorite",
@@ -30,12 +24,6 @@ export default function HomePage() {
       image: "Mutton_Meat.jpg",
       tag: "❤️ Loved by Locals",
       description: "Slow-cooked with aromatic spices and juicy mutton.",
-    },
-    {
-      name: "Beef Meat",
-      image: "Beef_Meat.jpg",
-      tag: "🥩 Rich & Juicy",
-      description: "Succulent beef chunks marinated in traditional spices and slow-cooked for that melt-in-your-mouth experience.",
     },
     {
       name: "Kacchi Biryani",

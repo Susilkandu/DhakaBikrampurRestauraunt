@@ -10,4 +10,7 @@
     font-family: "Lobster Two", sans-serif;
     font-weight: 400;
     font-style: italic;
-  }
+  }/* In your global CSS or tailwind config */
+.translate-dropdown {
+  margin-left: 1rem;
+}
